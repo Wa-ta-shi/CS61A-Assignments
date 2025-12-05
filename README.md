@@ -130,3 +130,4 @@ py ok --local
 ```bash
 https://www.bilibili.com/video/BV1nkizY5E45
 ```
+- 使用旧版本的python以适配2020fall，实测可用3.8.6，你需要确定使用了对应版本。如果你的计算机上有多个版本，将对应的版本的文件目录下的python.exe拷贝一份，重名名为pthon386.exe以更方便的执行。在vs code中可能需要使用对应旧版本的python duggger。如果报错，可以使用AI和在执行对应的操作后重启计算机
